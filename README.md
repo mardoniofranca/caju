@@ -7,7 +7,7 @@
 <ul>
   
    <li><a href='src/randow_walk/press.ipynb'> 
-   ### O problema do caminhante aleatório
+   O problema do caminhante aleatório
    </li>
   
   <li><a href='src/randow_walk/metrics.ipynb'> 
